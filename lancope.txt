@@ -1,0 +1,18 @@
+Core/Agg 10x 9500 = 4 days build (based on 5 sets of HSRP/VRRP/vStack cluster)
+
+Edge 54x 9300
+     10x 9200 = 6 days (based on avg 16 stacks of 4 switches - based on uplink count)
+
+250 APs = 4 days (based assumption that config is present on legacy controllers. Work is to upgrade controllers OoH and RF tuning) - Mounting extra?
+
+
+Design and scoping 
+
+	4-5 days
+	
+
+PM 
+	4.5 days going by rules (25%)
+
+
+Yes- this recording will be available to you within a week from the Stealthwatch Training Center: https://learning.stealthwatch.com You will also receive a follow up email with details about how to view the recording and presentation.

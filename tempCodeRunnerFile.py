@@ -1,0 +1,1 @@
+sorted(char_frequency.items(), key=lambda kv: kv[1])

@@ -1,0 +1,3 @@
+colore = input ()
+if colore  == 'red':
+    print("red is RED")

@@ -1,0 +1,16 @@
+Visit https://app-first-sec-15.signin.aws.amazon.com/console?region=us-east-1
+
+Login with the following credentials.
+Account ID: app-first-sec-15
+Username:   app-first-sec-15
+Email:      app-first-sec-15@cisco.com
+Password:   vyqIu2NjZmD*6B
+Search for and open the 'Cloud9' service.
+
+https://app-first-sec-restricted.s3.amazonaws.com/tetration_installer_app-first-sec_enforcer_linux.sh
+
+ubibanca  20517572   2009Clua   PIN 2009
+
+Meraki API d380a7dc58427a0092dcb56a426ab0c7afd17820
+
+tracey seivwright

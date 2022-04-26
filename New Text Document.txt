@@ -1,0 +1,24 @@
+Dial in 03333001134/08003582705 PIN 306666#; 
+
+henpost api
+0b869d4681962c03f473a501260980630931ab9c
+
+
+GRRT OY3B MQ4T ALLG HE3D QLJU MQ2W GLLC GMYD SLLF GYZT OMJW MFRG MMBW HA
+
+
+
+AMP API
+
+3rd Party API Client ID   22f494133c0430699505
+
+API Key    021e80ce-2f2e-41d8-a7ee-f68bbbdbd15e
+
+http://cs.co/60421Ftcr
+
+Do work on the lab at a later stage you can:1. Set up your own dev environment using this guide: https://developer.cisco.com/learning/modules/dev-setup 2. 
+
+Use DevNet Sandbox: https://devnetsandbox.cisco.com/RM/Diagram/Index/f1a51f3b-3377-444d-97f0-5ad300d976be?diagramType=Topology
+
+C02YV01ELVDR
+4708
